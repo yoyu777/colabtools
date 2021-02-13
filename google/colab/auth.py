@@ -68,7 +68,7 @@ def _gcloud_login():
       'gcloud',
       'auth',
       'login',
-      '--enable-gdrive-access',
+#       '--enable-gdrive-access',
       '--no-launch-browser',
       '--quiet',
   ]
